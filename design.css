@@ -1,0 +1,23 @@
+h1{
+    background-color: brown;
+}
+p{
+    border-style: dashed;
+    background-color: chartreuse;
+    margin: 5px;
+}
+.header{
+    display: flex;
+    justify-content: end;
+    height: 50px;
+    width: 50px;
+    border: double 50px;
+    z-index: auto;
+}
+.body{
+    display: inline-block;
+        height: 50px;
+        width: 50px;
+        border: double 50px;
+        z-index: auto;
+}
